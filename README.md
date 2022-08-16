@@ -1,3 +1,6 @@
 # dc30-Training
 
 https://github.com/justdjango/django-ecommerce
+
+
+https://peerpad.net/#/w/markdown/BshA4cUYxWRTLPwXMhAGZeqHcRMuHJh9BJzfysdpQao8/4XTTMEL1un9egm2Jfimtz1wjN2HLAt2Q3XXeL5XSDasc5vysd-K3TgUDPgshewi2snF8TNKGSfww4eqEfZKaiQfFMdSQ3GzsUZSvnTM6a9bwEwa2X7TM5om7LdgJc9n8FbJrMrubVfLBczAU54bT8gzBqv8YrtwYjYVpNHXHdNr2URJL1dhjmnsSRm
